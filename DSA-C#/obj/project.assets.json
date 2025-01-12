@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sujad UD\\source\\repos\\Data-Structures-and-Algorithms-Using-C#\\DSA-C#\\DSA-C#.csproj",
-      "projectName": "DSA-C#",
-      "projectPath": "C:\\Users\\Sujad UD\\source\\repos\\Data-Structures-and-Algorithms-Using-C#\\DSA-C#\\DSA-C#.csproj",
+      "projectUniqueName": "C:\\Users\\Sujad UD\\source\\repos\\Data-Structures-and-Algorithms-Using-C#\\DSA-C#\\DSA-CSharp.csproj",
+      "projectName": "DSA-CSharp",
+      "projectPath": "C:\\Users\\Sujad UD\\source\\repos\\Data-Structures-and-Algorithms-Using-C#\\DSA-C#\\DSA-CSharp.csproj",
       "packagesPath": "C:\\Users\\Sujad UD\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sujad UD\\source\\repos\\Data-Structures-and-Algorithms-Using-C#\\DSA-C#\\obj\\",
       "projectStyle": "PackageReference",
